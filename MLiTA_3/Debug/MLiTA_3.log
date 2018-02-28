@@ -1,0 +1,5 @@
+﻿  MLiTA3.cpp
+c:\users\admin\source\repos\mlita_3\mlita_3\mlita3.cpp(29): warning C4101: number: неиспользованная локальная переменная
+c:\users\admin\source\repos\mlita_3\mlita_3\mlita3.cpp(86): warning C4715: Len: значение возвращается не при всех путях выполнения
+  MLiTA_3.vcxproj -> C:\Users\Admin\source\repos\MLiTA_3\Debug\MLiTA_3.exe
+  MLiTA_3.vcxproj -> C:\Users\Admin\source\repos\MLiTA_3\Debug\MLiTA_3.pdb (Partial PDB)
