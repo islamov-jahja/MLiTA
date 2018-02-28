@@ -1,0 +1,6 @@
+﻿  AiSDPraktika4.cpp
+c:\users\admin\source\repos\aisd_praktika_4\aisd_praktika_4\aisdpraktika4.cpp(7): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\admin\source\repos\aisd_praktika_4\aisd_praktika_4\aisdpraktika4.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\aisd_praktika_4\aisd_praktika_4\aisdpraktika4.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+  AiSD_Praktika_4.vcxproj -> C:\Users\Admin\source\repos\AiSD_Praktika_4\Debug\AiSD_Praktika_4.exe
+  AiSD_Praktika_4.vcxproj -> C:\Users\Admin\source\repos\AiSD_Praktika_4\Debug\AiSD_Praktika_4.pdb (Partial PDB)
