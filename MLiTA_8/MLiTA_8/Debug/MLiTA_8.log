@@ -1,0 +1,13 @@
+﻿  MLiTA8.cpp
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(112): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(113): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(121): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_8\mlita_8\mlita8.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+  MLiTA_8.vcxproj -> C:\Users\Admin\source\repos\MLiTA_8\Debug\MLiTA_8.exe
+  MLiTA_8.vcxproj -> C:\Users\Admin\source\repos\MLiTA_8\Debug\MLiTA_8.pdb (Partial PDB)

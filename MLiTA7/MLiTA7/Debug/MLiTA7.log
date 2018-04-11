@@ -1,0 +1,9 @@
+﻿  MLiTA7.cpp
+c:\users\admin\source\repos\mlita7\mlita7\mlita7.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita7\mlita7\mlita7.cpp(56): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita7\mlita7\mlita7.cpp(64): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita7\mlita7\mlita7.cpp(75): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita7\mlita7\mlita7.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita7\mlita7\mlita7.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+  MLiTA7.vcxproj -> C:\Users\Admin\source\repos\MLiTA7\Debug\MLiTA7.exe
+  MLiTA7.vcxproj -> C:\Users\Admin\source\repos\MLiTA7\Debug\MLiTA7.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿  MLiTA7.cpp
+MLiTA7.cpp(56): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+MLiTA7.cpp(64): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+MLiTA7.cpp(67): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+MLiTA7.cpp(86): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+MLiTA7.cpp(91): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 444 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MLiTA7.vcxproj -> C:\Users\Admin\source\repos\MLiTA7\x64\Release\MLiTA7.exe
+  MLiTA7.vcxproj -> C:\Users\Admin\source\repos\MLiTA7\x64\Release\MLiTA7.pdb (Full PDB)
