@@ -1,0 +1,7 @@
+﻿  Mlitapraktika6.cpp
+c:\users\admin\source\repos\mlita_praktika_6\mlita_praktika_6\mlitapraktika6.cpp(34): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_praktika_6\mlita_praktika_6\mlitapraktika6.cpp(48): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_praktika_6\mlita_praktika_6\mlitapraktika6.cpp(54): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlita_praktika_6\mlita_praktika_6\mlitapraktika6.cpp(68): warning C4018: <=: несоответствие типов со знаком и без знака
+  Mlita_praktika_6.vcxproj -> C:\Users\Admin\source\repos\Mlita_praktika_6\Debug\Mlita_praktika_6.exe
+  Mlita_praktika_6.vcxproj -> C:\Users\Admin\source\repos\Mlita_praktika_6\Debug\Mlita_praktika_6.pdb (Partial PDB)

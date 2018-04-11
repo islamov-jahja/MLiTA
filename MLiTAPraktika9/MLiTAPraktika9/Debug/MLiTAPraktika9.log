@@ -1,0 +1,6 @@
+﻿  MLiTAPraktika9.cpp
+c:\users\admin\source\repos\mlitapraktika9\mlitapraktika9\mlitapraktika9.cpp(22): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlitapraktika9\mlitapraktika9\mlitapraktika9.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\mlitapraktika9\mlitapraktika9\mlitapraktika9.cpp(59): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+  MLiTAPraktika9.vcxproj -> c:\users\admin\source\repos\MLiTAPraktika9\Debug\MLiTAPraktika9.exe
+  MLiTAPraktika9.vcxproj -> c:\users\admin\source\repos\MLiTAPraktika9\Debug\MLiTAPraktika9.pdb (Partial PDB)
