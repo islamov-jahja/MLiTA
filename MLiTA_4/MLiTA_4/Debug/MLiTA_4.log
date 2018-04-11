@@ -1,0 +1,7 @@
+﻿  MLiTA4.cpp
+c:\users\admin\source\repos\mlita_4\mlita_4\mlita4.cpp(100): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\source\repos\mlita_4\mlita_4\mlita4.cpp(105): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+c:\users\admin\source\repos\mlita_4\mlita_4\mlita4.cpp(113): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+c:\users\admin\source\repos\mlita_4\mlita_4\mlita4.cpp(122): warning C4244: -=: преобразование "double" в "__int64", возможна потеря данных
+  MLiTA_4.vcxproj -> C:\Users\Admin\source\repos\MLiTA_4\Debug\MLiTA_4.exe
+  MLiTA_4.vcxproj -> C:\Users\Admin\source\repos\MLiTA_4\Debug\MLiTA_4.pdb (Partial PDB)
